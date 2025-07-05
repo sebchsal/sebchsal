@@ -29,8 +29,11 @@ Software Engineering student with a technical background in Productivity and Qua
 </div>
 
 ---
-## 📊 My GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebchsal&layout=compact&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sebchsal&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?user=sebchsal&theme=tokyonight&hide_border=true)
+### 📊 Other Github Stats 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sebchsal&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebchsal&theme=tokyonight&layout=compact"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebchsal&theme=tokyonight" alt="mystreak"/>
+</div>
