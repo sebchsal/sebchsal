@@ -12,16 +12,25 @@ Software Engineering student with a technical background in Productivity and Qua
 ### 💻 Programming Languages
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40px" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="40px" style="margin: 10px;" />
 </div>
 
 ---
-<h2>🛠️ Software Tools & IDEs</h2>
+### 🛠️ Software Tools & IDE's
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40px" style="margin: 10px;" title="Visual Studio"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40px" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" style="margin: 10px;" />
+</div>
+
 ---
+## 📊 My GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebchsal&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sebchsal&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=sebchsal&theme=tokyonight&hide_border=true)
