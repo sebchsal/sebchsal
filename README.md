@@ -46,6 +46,6 @@ Software Engineering student with a technical background in Productivity and Qua
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" style="margin: 10px;" alt="LinkedIn" />
   </a>
   <a href="mailto:sebaschavsal@gmail.com">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" width="40px" style="margin: 10px;" alt="Gmail" />
+       <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="40px" style="margin: 10px;" alt="Gmail" />
   </a>
 </div>
