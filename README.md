@@ -36,3 +36,16 @@ Software Engineering student with a technical background in Productivity and Qua
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebchsal&theme=tokyonight" alt="mystreak"/>
 </div>
+
+---
+
+### Connect with me:
+<div align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/sebasti%C3%A1nchavessalazar/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" style="margin: 10px;" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sebaschavsal@gmail.com">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" width="40px" style="margin: 10px;" alt="Gmail" />
+  </a>
+</div>
