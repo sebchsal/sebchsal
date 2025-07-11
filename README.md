@@ -3,10 +3,10 @@
 # 👋 Hello there, I'm Sebastián Chaves Salazar
 
 ## About Me:
-Software Engineering student with a technical background in Productivity and Quality, focused on logistics and quality control. I’m currently working on projects with Java, C++, and Python, while continuously growing in both tech and soft skills. I aim to make a meaningful impact in every project I join.
+Software Engineering student with a technical background in Productivity and Quality, focused on logistics and quality control. I’m currently working on projects using Java, C++, and Python, while continuously developing both technical and soft skills. I aim to make a meaningful impact in every project I join.
 
 - 🎓 Studying at the National University of Costa Rica (UNA)
-- 🔍 Looking for internship opportunities or entry level job opportunities to learn and grow as a developer.
+- 🔍 Looking for internship opportunities or entry-level job opportunities to learn and grow as a developer.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 ### 💻 Programming Languages
@@ -30,13 +30,22 @@ Software Engineering student with a technical background in Productivity and Qua
 
 ---
 ### 📊 Other Github Stats 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sebchsal&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebchsal&theme=tokyonight&layout=compact"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebchsal&theme=tokyonight" alt="mystreak"/>
-</div>
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=sebchsal&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sebchsal&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sebchsal&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
 
 ---
 
